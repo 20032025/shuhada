@@ -139,6 +139,10 @@
           
           }     
 
+ul {
+          list-style: none;
+        
+        }
 
           .page-section .link {
            
@@ -170,3 +174,4 @@
              text-align:centre;
           }
           
+
