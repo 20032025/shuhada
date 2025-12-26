@@ -71,6 +71,10 @@
             font-size: 30px;
         }
 
+        ul {
+          list-style: none;
+        
+        }
 
         .example-1 {
             text-decoration: none;
@@ -139,10 +143,6 @@
           
           }     
 
-ul {
-          list-style: none;
-        
-        }
 
           .page-section .link {
            
@@ -174,4 +174,3 @@ ul {
              text-align:centre;
           }
           
-
